@@ -21,9 +21,6 @@ pids
 *.seed
 *.pid.lock
 
-# Ignore the compiled output and data.
-dist/
-
 # Node modules
 node_modules/
 
